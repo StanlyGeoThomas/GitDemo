@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="126" started-at="2021-04-03T11:27:07 IST" finished-at="2021-04-03T11:27:08 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="126" started-at="2021-04-03T11:27:07 IST" finished-at="2021-04-03T11:27:08 IST">
+      <class name="QAClickAcademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="fir()[pri:0, instance:QAClickAcademy.MavenJava.SeleniumTest@6d4b1c02]" name="fir" duration-ms="9" started-at="2021-04-03T11:27:08 IST" finished-at="2021-04-03T11:27:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fir -->
+      </class> <!-- QAClickAcademy.MavenJava.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
